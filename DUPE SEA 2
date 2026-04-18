@@ -1,6 +1,5 @@
 -- Key-protected script loader (dark modern style GUI)
 -- Key: 68170246I$6528
--- Loads on success: https://cdn.sourceb.in/bins/Te1N8taC3j/0
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
