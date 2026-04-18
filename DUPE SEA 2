@@ -19,7 +19,7 @@ local DISCORD_LINK = "https://discord.gg/c6eca2jZcE"
 
 local function runMainScript()
     -- Automatically loads the new script on correct key
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Te1N8taC3j/0"))()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Te1N8taC3j/0", true))()
 end
 
 -- ============= GUI Creation =============
